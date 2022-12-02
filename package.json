@@ -1,0 +1,26 @@
+{
+  "name": "advent-of-code-js-starter",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/",
+  "engines": {
+    "npm": ">=8.0.0 <9.0.0",
+    "node": ">=16.0.0 <17.0.0"
+  },
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwulff/advent-of-code-js-starter.git"
+  },
+  "author": "Daniel Wulff",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/danwulff/advent-of-code-js-starter/issues"
+  },
+  "homepage": "https://github.com/danwulff/advent-of-code-js-starter#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
