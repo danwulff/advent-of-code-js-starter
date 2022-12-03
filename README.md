@@ -13,4 +13,4 @@ Add days by:
 
 - duplicating the existing _src/day1_ directory and renaming to "dayx" 1) the filenames and 2) the function names
 - adding a "dayx" input file within the _src/inputs_ directory
-- adding the "dayx" function
+- adding the "dayx" function to _src/index.js_
