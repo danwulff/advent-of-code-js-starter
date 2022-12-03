@@ -1,5 +1,8 @@
 function day1(input) {
-  return null;
+  return {
+    partOne: null,
+    partTwo: null,
+  };
 }
 
 module.exports = {

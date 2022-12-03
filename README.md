@@ -4,7 +4,7 @@ A starter repo for [Advent of Code](https://adventofcode.com/) completed in java
 
 Tested on MacOS & Ubuntu with Node 16.
 
-Run `npm ci` to install test dependency
+Run `npm ci` to install dependencies
 
 Run `npm start` to run src/index.js containing each day
 Run `npm run test` in a terminal to run tests

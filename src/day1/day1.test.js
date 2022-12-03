@@ -7,5 +7,7 @@ the input files
 `;
 
 test("day1", () => {
-  expect(day1(input)).toBe(null);
+  const result = day1(input);
+  expect(result.partOne).toBe(null);
+  expect(result.partTwo).toBe(null);
 });
