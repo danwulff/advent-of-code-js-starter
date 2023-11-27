@@ -1,5 +1,5 @@
 const { readFileSync } = require("fs");
-const { day1 } = require("./day1/day1.js");
+const { day1 } = require("./src/day1/day1.js");
 
 const daysToRun = [
   day1,
@@ -8,6 +8,6 @@ const daysToRun = [
 
 daysToRun.forEach((day) => {
   const name = day.name;
-  const input = readFileSync(`./src/inputs/${name}`).toString();
+  const input = readFileSync(`./inputs/${name}`).toString();
   console.log(`${name}:`, day(input));
 });
