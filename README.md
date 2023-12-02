@@ -8,6 +8,7 @@ Run `npm ci` to install dependencies
 
 Run `npm start` to run index.js containing each day
 Run `npm run test` in a terminal to run tests
+Run `npm run test -- --watch` in a terminal to watch tests
 
 Add days by:
 
